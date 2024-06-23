@@ -24,7 +24,7 @@ e produtivo.
 1. Clone o repositório:
 
 ```bash
-  git clone https://github.com/seu-usuario/todo-list-app.git
+  git clone https://github.com/Hugo-Leite/TODO-List
 ```
 
 2. Instale as dependências:
@@ -65,10 +65,15 @@ node config\database.js
 5. Se a conexão for bem-sucedida, você verá a mensagem Conectado ao MongoDB no console. Caso ocorra
    algum erro, ele será exibido no console.
 
-## Iniciar aplicação
+## Uso
 
-Para rodar a aplicação, rode o seguinte comando
+1. Para iniciar a aplicação, rode o seguinte comando
 
 ```bash
   npm run start
+```
+
+2. Acesse a aplicação em seu navegador:
+```bash
+http://localhost:3000
 ```
